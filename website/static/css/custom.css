@@ -21,3 +21,18 @@
 
 @media only screen and (min-width: 1500px) {
 }
+
+body{
+    font-style: italic;
+    font-size: 4.5mm;
+   
+}
+head{
+    font-style: italic;
+    background-color: antiquewhite;
+}
+.block
+{
+    font-style: italic;
+    background-color: lightcoral;
+}

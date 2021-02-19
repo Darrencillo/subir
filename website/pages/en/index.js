@@ -50,23 +50,14 @@ class HomeSplash extends React.Component {
       </div>
     );
 
-    const Button = (props) => (
-      <div className="pluginWrapper buttonWrapper">
-        <a className="button" href={props.href} target={props.target}>
-          {props.children}
-        </a>
-      </div>
-    );
-
+    
     return (
       <SplashContainer>
         <Logo img_src={`${baseUrl}img/undraw_monitor.svg`} />
         <div className="inner">
           <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} />
           <PromoSection>
-            <Button href="#try">Try It Out</Button>
-            <Button href={docUrl('doc1.html')}>Example Link</Button>
-            <Button href={docUrl('doc2.html')}>Example Link 2</Button>
+           
           </PromoSection>
         </div>
       </SplashContainer>
@@ -132,14 +123,14 @@ class Index extends React.Component {
     );
 
     const LearnHow = () => (
-      <Block background="light">
+      <Block>
         {[
           {
-            content:
-              'Each new Docusaurus project has **randomly-generated** theme colors.',
-            image: `${baseUrl}img/undraw_youtube_tutorial.svg`,
-            imageAlign: 'right',
-            title: 'Randomly Generated Theme Colors',
+            
+            image: `${baseUrl}img/CIM-GitHub-Pages-Home.svg`,
+            imageAlign: 'left',
+            
+            
           },
         ]}
       </Block>
@@ -198,12 +189,12 @@ class Index extends React.Component {
       <div>
         <HomeSplash siteConfig={siteConfig} language={language} />
         <div className="mainContainer">
-          <Features />
-          <FeatureCallout />
+           
+          
           <LearnHow />
-          <TryOut />
-          <Description />
-          <Showcase />
+          
+          
+          
         </div>
       </div>
     );
