@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Darrencillo.github.io/subir/blog</id>
-    <title>CIM Blog</title>
+    <title>undefined Blog</title>
     <updated>2017-10-24T06:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Darrencillo.github.io/subir/blog"/>
-    <subtitle>The best place to stay up-to-date with the latest CIM news and events.</subtitle>
-    <logo>https://Darrencillo.github.io/subir/img/favicon.ico</logo>
+    <subtitle>The best place to stay up-to-date with the latest undefined news and events.</subtitle>
+    <logo>https://Darrencillo.github.io/subir/img/logo_cim.svg</logo>
     <rights>Copyright © 2021 Your Name or Your Company Name</rights>
     <entry>
         <title type="html"><![CDATA[New Version 1.0.0]]></title>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>CIM Blog</title>
+        <title>undefined Blog</title>
         <link>https://Darrencillo.github.io/subir/blog</link>
-        <description>The best place to stay up-to-date with the latest CIM news and events.</description>
+        <description>The best place to stay up-to-date with the latest undefined news and events.</description>
         <lastBuildDate>Tue, 24 Oct 2017 06:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
-            <title>CIM Blog</title>
-            <url>https://Darrencillo.github.io/subir/img/favicon.ico</url>
+            <title>undefined Blog</title>
+            <url>https://Darrencillo.github.io/subir/img/logo_cim.svg</url>
             <link>https://Darrencillo.github.io/subir/blog</link>
         </image>
         <copyright>Copyright © 2021 Your Name or Your Company Name</copyright>
