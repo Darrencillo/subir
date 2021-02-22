@@ -13,8 +13,8 @@ const siteConfig =
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {page: 'index', label: 'Inicio',},
-    {page: 'SubjectAreas1', label: 'Subjects Area'},
-    {href: 'https://github.com/Darrencillo/cimtest.git', label: 'GitHub' },
+    {page: '/website/pages/en/SubjectAreas1', label: 'Subjects Area'},
+    {href: 'https://github.com/Darrencillo/subir.git', label: 'GitHub' },
   ],
 
   /* path to images for header/footer */

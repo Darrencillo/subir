@@ -33,7 +33,7 @@ class Footer extends React.Component {
          
           <div>
             <h5>DOCUMENTOS</h5>
-            <a href={this.docUrl('doc2.md')}>Documento 1</a>
+            <a href={this.docUrl('doc1.md')}>Documento 1</a>
             <a href={this.docUrl('doc2.md')}>Documento 2</a>
             <a href={this.docUrl('doc2.md')}>Documento 3</a>
           </div>
@@ -65,7 +65,7 @@ class Footer extends React.Component {
             <h5>MAS</h5>
             <a href={`${this.props.config.baseUrl}blog`}>Blog</a>
             <a 
-              href="https://github.com/Darrencillo/cimtest.git"
+              href="https://github.com/Darrencillo/subir.git"
               target="_blank"
               rel="noreferrer noopener"
               
